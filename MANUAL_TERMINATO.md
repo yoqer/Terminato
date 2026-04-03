@@ -47,13 +47,17 @@
 - **2-4x GPU NVIDIA RTX 4090 / A100**
 - **2-4x NVMe 2TB**
 
+
+______________________________________________________________________________________________________________________________________________________
+
 ### Pasos de Instalación
+
 
 #### 1. Clonar o Extraer el Framework
 
 ```bash
 # Extraer ZIP
-unzip Terminato_Complete.zip
+unzip Terminato.zip
 cd Terminato
 
 # O clonar desde git
@@ -79,11 +83,14 @@ venv\Scripts\activate
 # Instalar requisitos base
 pip install -r requirements.txt
 
-# Instalar TeMiNaTor desde PyPI (cuando esté disponible)
-pip install TeMiNaTor
+
+
+
+# Instalar TenMiNaTor desde PyPI (disponible)
+pip install TenMiNaTor
 
 # O instalar desde fuente
-pip install -e /path/to/TeMiNaTor
+pip install -e /path/to/TenMiNaTor
 ```
 
 #### 4. Verificar Instalación
@@ -637,7 +644,7 @@ trainer.start_training(session_id, max_epochs=50)
 
 ---
 
-## Próximos Pasos
+## [Opciones extendidas en WéB.](http://carlomaxxine.com/tragadatos/Enhanced/frontend/dashboard_v5.html)
 
 1. **Integración con Hugging Face**: Cargar modelos directamente de HF
 2. **Soporte para LoRA**: Fine-tuning eficiente con LoRA
