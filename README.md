@@ -16,7 +16,7 @@ Sistema completo para entrenar, fusionar y analizar modelos de IA con control di
 
 ```bash
 # 1. Extraer framework
-unzip Terminato_Complete.zip
+unzip Terminato.zip
 
 cd Terminato
 
