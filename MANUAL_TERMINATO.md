@@ -61,7 +61,7 @@ unzip Terminato.zip
 cd Terminato
 
 # O clonar desde git
-git clone <repository>
+git clone https://github.com/yoqer/Terminato.git
 cd Terminato
 ```
 
