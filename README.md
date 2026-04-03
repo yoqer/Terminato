@@ -1,6 +1,6 @@
 # 🤖 Terminato Framework
 
-**Framework de Entrenamiento Dirigido con TeMiNaTor** [(Uso Web)](http://carlomaxxine.com/tragadatos/Enhanced/frontend/dashboard_v5.html)
+**Framework de Entrenamiento Dirigido con TeMiNaTor del proyecto [AlIAmAlIA](http://github.com/yoqer/AlIAmAlIA)** [(Uso Web)](http://carlomaxxine.com/tragadatos/Enhanced/frontend/dashboard_v5.html)
 
 Sistema completo para entrenar, fusionar y analizar modelos de IA con control dinámico de GPU/NVMe, interfaz web intuitiva y API REST.
 
